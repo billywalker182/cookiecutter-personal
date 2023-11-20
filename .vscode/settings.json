@@ -1,0 +1,7 @@
+{
+    "editor.defaultFormatter": "paiqo.databricks-vscode",
+    "databricks.connection.default.apiRootUrl": "adb-3038681718499275.15.azuredatabricks.net",
+    "editor.defaultFoldingRangeProvider": "paiqo.databricks-vscode",
+    "databricks.connection.default.displayName": "adb-3038681718499275.15.azuredatabricks.net",
+    "databricks.sensitiveValueStore": "VSCodeSettings"
+}
